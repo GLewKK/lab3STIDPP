@@ -1,0 +1,5 @@
+2018-10-04 17:23:19,922 ERROR [AWT-EventQueue-0] - Mediator.addList 46 - Name is empty!
+2018-10-05 11:14:10,284 ERROR [AWT-EventQueue-0] - Mediator.addList 44 - Name is empty!
+2018-10-05 11:14:19,924 ERROR [AWT-EventQueue-0] - Mediator.addList 44 - Name is empty!
+2018-10-05 13:55:00,618 ERROR [AWT-EventQueue-0] - Mediator.addList 44 - Name is empty!
+2018-10-05 13:55:16,902 ERROR [AWT-EventQueue-0] - Mediator.removeList 60 - No item selected!
